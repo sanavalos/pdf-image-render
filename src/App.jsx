@@ -43,7 +43,7 @@ const MyDocument = () => (
 
 function App() {
   return (
-    <PDFDownloadLink document={<MyDocument />} fileName="somename.pdf">
+    <PDFDownloadLink document={<MyDocument />} fileName="Freight130.pdf">
      <button style={{cursor:'pointer', backgroundColor:'#6C5431', borderRadius:'15px', height:'150px', width:'350px', color:'#FFFFFF', fontSize:'30px', fontWeight:'bold'}}>
       Download PDF
      </button>
