@@ -35,7 +35,7 @@ const MyDocument = () => (
     </View>
     <View style={styles.imageSection}>
       <Text>Image below is a png (link)</Text>
-      <Image src={`https://fmanage-contracts.s3.amazonaws.com/assets/38991919-b72e-48ff-ad5f-eaf1304e1396/logo.png?AWSAccessKeyId=AKIA2MYBNBUJSF5MBKUZ&Signature=%2FcMb7QYA260gBvSeFHavT5zZrYk%3D&Expires=1701267665`} />
+      <Image src={`https://fmanage-contracts.s3.amazonaws.com/assets/38991919-b72e-48ff-ad5f-eaf1304e1396/logo.png?AWSAccessKeyId=AKIA2MYBNBUJSF5MBKUZ&Signature=vnyWcxSjFNntBSv3jDYeh7KZVvo%3D&Expires=1701290662`} />
     </View>
     </Page>
   </Document>
